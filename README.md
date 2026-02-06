@@ -17,5 +17,3 @@ Isolation Forest is used due to its effectiveness in high-dimensional settings, 
 ## Results
 The model outputs an anomaly score for each observation along with a binary anomaly flag. These results are used to highlight and analyze observations that deviate significantly from typical patterns in the data.
 
-## Repository Structure
-
